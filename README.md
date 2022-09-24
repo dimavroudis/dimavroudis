@@ -1,9 +1,9 @@
 <img src="/header.png" alt="Hi, I am Dimitris Mavroudis"/>
 
-I am a ⚡ Front End Developer ⚡ with experience in:
-- creating front end applications, 
-- building WordPress themes and plugins
-- testing with Cypress
+## My open source projects
+- AutoConvert Greeklish Permalinks WordPress Plugin <a href="https://el.wordpress.org/plugins/autoconvert-greeklish-permalinks" target="_blank" rel="noreferrer">(link)</a>
+- WordPress Admin Colors Generator <a href="https://wpadmincolors.com/" target="_blank" rel="noreferrer">(link)</a>
+- @mavrou/cy-graphql Cypress plugin <a href="https://www.npmjs.com/package/@mavrou/cy-graphql" target="_blank" rel="noreferrer">(link)</a>
 
 
 ## Languages and Tools
